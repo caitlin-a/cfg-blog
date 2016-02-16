@@ -1,0 +1,9 @@
+span.fakelink {
+	color:#0000cc;
+	cursor:pointer;
+	text-decoration:none;
+}
+
+span.fakelink:hover {
+	text-decoration:underline;
+}
